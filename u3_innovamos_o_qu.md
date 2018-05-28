@@ -62,7 +62,7 @@ _Eso sí: en ese viaje habrán aprendido algo sobre el contenido, pero también 
 
 _Y tú, seguramente, también._
 
-## ParaSaberMas
+## Para saber más
 
 Un decálogo para innovar integrando el uso de la PDI en el aula:
 

@@ -13,7 +13,7 @@ En cualquier caso un par de consejos que he oído repetir en multitud de ocasion
 
 ## **COMPROBACIÓN DE LAS CONEXIONES**:
 
-*   ### COMPROBACIÓN 1:
+### COMPROBACIÓN 1:
     
 
 Cable VGA que conecta el ordenador con el proyector (es inconfundible por sus terminales de color azul o metálico pero siempre con tornillos que permiten ajustarlos). Puede que el proyector sea inaccesible y el cable se conecte en una caja de conexiones (Fig.1.7 y 1.8).
@@ -22,15 +22,15 @@ Cable VGA que conecta el ordenador con el proyector (es inconfundible por sus te
 ![fig1.7](img/fig1.7.jpg)
 
 
- Fig.1.7: Imagen Propia
+ 
 
 
 ![fig1.8](img/fig1.8.jpg)
 
 
-Fig.1.8: Imagen Propia
 
-*   ### **COMPROBACIÓN 2**:
+
+### **COMPROBACIÓN 2**:
     
 
 La PDI se conecta al ordenador por un cable USB (igual que la conexión de los "lápices de memoria").(Fig.1.9)
@@ -39,9 +39,9 @@ La PDI se conecta al ordenador por un cable USB (igual que la conexión de los "
 ![fig1.9](img/fig1.9.jpg)
 
 
-Fig.1.9: Imagen Propia
 
-*   ### COMPROBACIÓN 3:
+
+### COMPROBACIÓN 3:
     
 
 El proyector debe estar conectado a la red eléctrica y encendido (puede haber un interruptor o el mando a distancia que permite encenderlo).(Fig.1.10 y 1.11)
@@ -50,17 +50,17 @@ El proyector debe estar conectado a la red eléctrica y encendido (puede haber u
 ![fig1.10](img/fig1.10.jpg)
 
 
-Fig.1.10: Imagen Propia
+
 
 
 ![fig1.11](img/fig1.11.jpg)
 
 
-Fig.1.11: Imagen Propia
+
 
 Para saber algo más sobre la configuración del Proyector, consulta en "Ampliación".
 
-*   ### COMPROBACIÓN 4:
+### COMPROBACIÓN 4:
     
 
 Si es necesario se ajusta la imagen proyectada a la superficie de la PDI gracias a los mandos del proyector (reproducidos en el mando a distancia). Lo normal es que si la instalación es fija, no sea necesario tocar estos ajustes (Fig.1.12)
@@ -71,36 +71,36 @@ Es muy frecuente que en los centros esta instalación se haya canalizado y los c
 ![fig1.12](img/fig1.12.jpg)
 
 
-Fig.1.12: Imagen Propia
 
-*   ### COMPROBACIÓN 5:
+
+### COMPROBACIÓN 5:
     
 
 Los altavoces se enchufan al equipo mediante un conector tipo JACK, a la salida de audio (donde se conectarían los altavoces o los auriculares).Puede que el otro extremo vaya a una caja de conexiones(Fig.1.13 y 1.14)
 
 Por último no olvides, en caso de necesitar sonido, que además de los ajustes del sonido desde el ordenador (fijarse que no está en silencio), en casi todas las instalacines hay un interruptor que conecta/desconecta los altavoces.
 
-     Ya lo he comprobado todo, me pongo a interactuar con la PDI y..... el puntero no responde. Podría ser la **pila**, será conveniente tener a mano un repuesto para descartar este problema (Fig.1.15).
+Ya lo he comprobado todo, me pongo a interactuar con la PDI y..... el puntero no responde. Podría ser la **pila**, será conveniente tener a mano un repuesto para descartar este problema (Fig.1.15).
 
 
 ![fig1.13](img/fig1.13.1.jpg)
 
 
-Fig.1.13: Imagen Propia
+
 
 
 ![fig1.14](img/fig1.14.1.jpg)
 
 
-Fig.1.14: Imagen Propia
+
 
 
 ![fig1.15](img/fig1.15.1.jpg)
 
 
-Fig.1.15: Imagen Propia
 
-**COMPROBACIÓN DE LA SALIDA DE LA IMAGEN**: (Para equipos portátiles)
+
+### COMPROBACIÓN DE LA SALIDA DE LA IMAGEN: (Para equipos portátiles)
 
 En los equipos portátiles (incluidos los tablet) podemos elegir la forma en que la imagen se visualiza cuando le conectamos un proyector: que se vea sólo en el portátil, sólo a través del proyector o por ambos.
 
@@ -110,7 +110,7 @@ Para ello hay que pulsar simultáneamente la teclas **Fn**y la que en el aparato
 ![funcion_fn](img/funcion_fn.JPG)
 
 
-Fig.1.16: Imagen Propia
+
 
 Pulsándolas reiteradamente se irá pasando de un visionado a otro (sólo ordenador, sólo proyector, ambos).
 
@@ -118,27 +118,17 @@ Pulsándolas reiteradamente se irá pasando de un visionado a otro (sólo ordena
 
 ¿Dónde se conecta cada cable?
 
-var YOUR\_SCORE\_IS="Su puntuación es " 
-
-
 ![pregunta](img/PA150820_.jpg)
 
+%accordion%Solución%accordion%
 
-Fig.1.17: Imagen Propia
-
-1- Rellenar huecos (1): Cable del Proyector - Entrada VGACable de la PDI - Entrada USBEste no lo conozcoCable de sonido - Entrada tipo JACK JXUwMDFiJXUwMDIyJXUwMDAzJXUwMDBlJXUwMDA5JXUwMDQ1JXUwMDQ0JXUwMDAxJXUwMDA5JXUwMDRjJXUwMDcwJXUwMDIyJXUwMDFkJXUwMDE2JXUwMDFjJXUwMDA2JXUwMDE3JXUwMDFiJXUwMDFkJXUwMDUyJXUwMDBkJXUwMDBkJXUwMDY1JXUwMDJiJXUwMDFhJXUwMDA2JXUwMDEzJXUwMDA1JXUwMDA1JXUwMDQxJXUwMDc2JXUwMDExJXUwMDA2
-
-2- Rellenar huecos (2): Cable del Proyector - Entrada VGACable de la PDI - Entrada USBEste no lo conozcoCable de sonido - Entrada tipo JACK JXUwMDFiJXUwMDIyJXUwMDAzJXUwMDBlJXUwMDA5JXUwMDQ1JXUwMDQ0JXUwMDAxJXUwMDQ1JXUwMDRjJXUwMDBkJXUwMDQxJXUwMDcwJXUwMDE0JXUwMDBkJXUwMDY5JXUwMDBkJXUwMDBkJXUwMDY1JXUwMDJiJXUwMDFhJXUwMDA2JXUwMDEzJXUwMDA1JXUwMDA1JXUwMDQxJXUwMDc1JXUwMDA2JXUwMDEx
-
-3- Rellenar huecos (3): Cable del Proyector - Entrada VGACable de la PDI - Entrada USBEste no lo conozcoCable de sonido - Entrada tipo JACK JXUwMDFiJXUwMDIyJXUwMDAzJXUwMDBlJXUwMDA5JXUwMDQ1JXUwMDQ0JXUwMDAxJXUwMDQ1JXUwMDUzJXUwMDFjJXUwMDAxJXUwMDA3JXUwMDBkJXUwMDBiJXUwMDRmJXUwMDBkJXUwMDBkJXUwMDY1JXUwMDJiJXUwMDFhJXUwMDA2JXUwMDEzJXUwMDA1JXUwMDA1JXUwMDQxJXUwMDU0JXUwMDFkJXUwMDE5JXUwMDFmJXUwMDRmJXUwMDZhJXUwMDBiJXUwMDAyJXUwMDA4
-
-      Habilitar JavaScript
-
+*  Cable del pryector - entrada VGA.
+*  Cable de la PDI - entrada USB.
+*  Cable de sonido - entrada tipo JACK
 
 ![respuesta](img/PA150826_S.jpg)
 
-
-                               Fig.1.18: Imagen Propia
+%/accordion%
 
 ## Importante
 

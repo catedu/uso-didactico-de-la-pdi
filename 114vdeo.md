@@ -6,7 +6,7 @@ Los audios (mp3) y vídeos (wmv o mpg) se pueden **abrir o importar**, pero sól
 
 Existe la posibilidad de integrar vídeo y audio en una explicación que preparemos, como **archivos adjuntos**, usando la opción de crear **hipervínculos**, como se muestra a continuación:
 
-## ParaSaberMas
+## Para saber más
 
 ### **Herramienta de grabación de la propia PDI**:
 

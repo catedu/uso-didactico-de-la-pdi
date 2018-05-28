@@ -6,13 +6,8 @@ Cuando entramos en el aula y vemos, junto a la pizarra tradicional verde o blanc
 ![pizarra](img/PA150816.jpg)
 
 
-Fig.1.1: Imagen propia
-
-
 ![pdi](img/PA150817.jpg)
 
-
-Fig.1.2: Imagen propia
 
 Unas cuantas preguntas nos llenan la cabeza....
 

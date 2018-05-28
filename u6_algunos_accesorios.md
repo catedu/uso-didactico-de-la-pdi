@@ -80,7 +80,7 @@ Celestino Arteta en [Educación Tecnológica](http://villaves56.blogspot.com.es/
 
 Blog "[Tecnología y Educación](http://www.tecnologiayeducacion.com/la-tableta-una-mini-pizarra-interactiva/)". Sobre las tabletas gráficas.
 
-## ParaSaberMas
+## Para saber más
 
 Como se ve en la imagen y como se ha comentado más arriba, **las cámaras de documentos y las webcam**, permiten introducir en el aula el uso de un recurso nuevo: **la realidad aumentada**.
 

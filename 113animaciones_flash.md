@@ -45,7 +45,7 @@ Buscamos en el explorador en qué ubicación tenemos guardada la animación a in
 
 Al igual que las imágenes, las animaciones Flash son objetos que pueden moverse, redimensionarse o eliminarse de forma análoga a las primeras.
 
-## ParaSaberMas
+## Para saber más
 
 ## **Perfil en StarBoard:**
 

@@ -1,6 +1,6 @@
 # Ampliación de Contenidos: imagen y vídeo.
 
-## ParaSaberMas
+## Para saber más
 
 ### Redimensionar imágenes:
 

@@ -34,7 +34,7 @@ En este contexto, la **pizarra digital es un gran aliado**  tanto para comparti
 
 Resuelve y reflexiona sobre los nuevos roles de profesor y alumno:
 
-## ParaSaberMas
+## Para saber más
 
 \- Si quieres profundizar en el modelo **MIE-CAIT**:
 

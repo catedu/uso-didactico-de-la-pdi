@@ -16,7 +16,6 @@ Por tanto:
 *   El único **problema** es que quieras llevar **tu ordenador, que no tiene el software de la PDI, al aula** para practicar lo estudiado. En este caso te puedes encontrar con que la PDI no responda o que esté descalibrada y no te deje trabajar. Para ello la única solución es instalarte el software de la pizarra en tu equipo.
 
 
-![fig1.43](img/ebean.jpg)  
+![ Fig.1.43.foto de eBeam on Flickr](img/ebean.jpg)  
 
- Fig.1.43.foto de [eBeam](http://es.fotopedia.com/redirect?u=http%3A%2F%2Fwww.flickr.com%2Fphotos%2F27769950%40N06) on [Flickr](http://es.fotopedia.com/redirect?u=http%3A%2F%2Fwww.flickr.com%2Fphotos%2F27769950%40N06%2F3586287989) Licencia:[Attribution](http://es.fotopedia.com/redirect?u=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F2.0%2F)
 

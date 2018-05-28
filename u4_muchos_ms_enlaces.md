@@ -10,7 +10,7 @@ No es necesario que los visites todos, son sólo una propuesta general y por tan
 
 Imagina las posibilidades didácticas de esta aplicación, por ejemplo insertada en un blog de aula, de centro, personal,....
 
-## ParaSaberMas
+## Para saber más
 
 Si te interesa la aplicación **Symbaloo**, aquí tienes un **sencillo tutorial**. Además de lo que puedes ver en la zona superior, otra ventaja es que puedes crear diferentes páginas o "webmix" sobre temáticas diferentes. **¡Anímate a probarlo!**
 

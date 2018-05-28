@@ -4,7 +4,7 @@
 
 Aquí tenemos una presentación que puede servir de colofón a esta unidad, en la que no sólo se repasan lo elementos de la PDI y sus podibilidadades (se incluye referencia a la "Cámara de Documentos" como recurso, que se podría sustiruir por una webcam y que veremos en la última parte del curso) sino que inicia lo que veremos en siguientes unidades sobre sus posibilidades de uso en el aula.
 
-[La magia de la pizarra digital](http://es.scribd.com/doc/62638523/La-magia-de-la-pizarra-digital "View La magia de la pizarra digital  on Scribd") by [Pere Marquès](http://www.scribd.com/peremarques "View Pere Marquès's profile on Scribd")
+<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View La magia de la pizarra digital  on Scribd" href="https://www.scribd.com/presentation/62638523/La-magia-de-la-pizarra-digital#from_embed"  style="text-decoration: underline;" >La magia de la pizarra digital</a> by <a title="View Pere Marquès's profile on Scribd" href="https://es.scribd.com/user/92441214/Pere-Marques#from_embed"  style="text-decoration: underline;" >Pere Marquès</a> on Scribd</p><iframe class="scribd_iframe_embed" title="La magia de la pizarra digital " src="https://www.scribd.com/embeds/62638523/content?start_page=1&view_mode=scroll&access_key=key-19s8edvprxxek0n5qz5y&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.75" scrolling="no" id="doc_23767" width="100%" height="600" frameborder="0"></iframe>
 
 **Encontrarás más del autor en:**
 

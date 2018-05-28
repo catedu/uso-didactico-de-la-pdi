@@ -1,7 +1,6 @@
 # U1. ¿Qué es la P.D.I.?
 
-**Concepto:  
-**
+### Concepto:
 
 La pizarra digital interactiva (PDI) es un conjunto de elementos (ordenador, vídeoproyector y la pizarra propiamente dicha con su dispositivo de escritura y puntero) que permite la proyección de contenidos digitales en una superficie interactiva para compartirlos en grupo.
 
@@ -11,7 +10,7 @@ El principal valor añadido de este sistema, con respecto a los que se habían v
 ![pdi_pintada](img/PA150831.jpg)
 
 
-Fig.1.3: Imagen propia
+
 
  En todo caso se trata de:
 
@@ -34,9 +33,7 @@ Fig.1.3: Imagen propia
 
 **Sin comenzar a trabajar sobre la PDI, ¿qué otras posibles ventajas puedes **apuntar** para el aprendizaje en el aula? Anota** **algunas. Si quieres conocer las que propone un estudioso sobre el tema, haz clic aquí abajo.**
 
-var feedback12_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Mira lo que propone [Père Marqués](http://www.pangea.org/peremarques/):
 
@@ -47,6 +44,10 @@ Mira lo que propone [Père Marqués](http://www.pangea.org/peremarques/):
 *   El gran tamaño de la pantala táctil (pizarra) facilita la interacción con los programas: selección de opciones,..
 *   Puede haber una triple interacción, por ejemplo: el profesor ante el ordenador, algunos alumnos ante la pizarra interactiva y el resto de la clase participando desde sus asientos bien mediante sus ordenadores, bien mediante intervenciones directas.
 
+%/accordion%
+
+
+
 ## Importante
 
 **No olvides que la Pizarra Digital Interactiva no es más que un recurso, por sí sola no posee ningún valor didáctico.**
@@ -55,11 +56,9 @@ Mira lo que propone [Père Marqués](http://www.pangea.org/peremarques/):
 
 Tras visionar esta presentación, vamos a pensar en si, efectivamente, el uso de la PDI y el resto de recursos tecnológicos que hay en las aulas debería implican un cambio en la forma de dar las clases.
 
-**[Del aula analógica al aula digital](https://www.slideshare.net/dmelop/del-aula-analgica-al-aula-digital "Del aula analógica al aula digital ")** from **[Domingo Méndez](http://www.slideshare.net/dmelop)**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yOT4ItDbQ7EaiD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dmelop/del-aula-analgica-al-aula-digital" title="Del aula analógica al aula digital " target="_blank">Del aula analógica al aula digital </a> </strong> from <strong><a href="https://www.slideshare.net/dmelop" target="_blank">Domingo Méndez</a></strong> </div>
 
-var feedback22\_42\_6text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Desde luego tu opinión también importa, pero lee....
 
@@ -76,4 +75,8 @@ Los maestros y los alumnos están en Internet, las escuelas tienen Internet, per
 Creo que la aplicación en clase de herramientas TIC conduce espontáneamente a la búsqueda de alternativas a los clásicos exámenes como método para evaluar.  
 Hace tiempo que me pregunto si puede aprender nuestro alumnado sin hacer exámenes.  
 Y cada vez estoy más convencido de que el trabajo mediante proyectos y las dinámicas participativas en clase difícilmente encajan con una examen al final del proceso en el que el alumnado tiene que demostrar en una hora lo que ha aprendido. Llevo unos veinte años sin hacer exámenes y ello no ha mermado en absoluto mi capacidad para aprender. -sigue...- (José María, del IES El Palo de Málaga)
+
+%/accordion%
+
+
 

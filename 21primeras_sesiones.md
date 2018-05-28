@@ -18,10 +18,7 @@ Cuando la interacción, que nos ofrece la PDI, facilite el aprendizaje de los co
  Nuestra metodología no va a cambiar de forma radical de un día para otro. La usaremos de forma gradual, ajustándonos a las necesidades del aula y a la seguridad que vayamos adquiriendo en su uso. Cada docente deberá decidir lo que hace con la PDI en su aula.
 
 
-![profe_pdi](img/profe_pdi.jpg)
-
-
-Fig.1.20.Licencia: [Algunos derechos reservados](http://creativecommons.org/licenses/by-sa/2.0/ "Attribution-ShareAlike License") por [luistorresotero](http://www.flickr.com/photos/67205343@N08/). En [http://www.flickr.com/photos/](http://www.flickr.com/photos/67205343@N08/6155171761/sizes/m/in/photostream/)
+[![Fig.1.20.Licencia: Algunos derechos reservados luistorresotero](img/profe_pdi.jpg)](http://www.flickr.com/photos/67205343@N08/6155171761/sizes/m/in/photostream/)
 
 Algunas ideas:
 
@@ -63,9 +60,7 @@ Piensa en esa hipotética primera sesión con PDI... ¿cómo la abordarías? ¿q
 
 Abajo puedes ver algunas propuestas... seguro que a tí se te ocurren más.
 
-var feedback37_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Apoyar la explicación:
 
@@ -90,4 +85,8 @@ Aademás de la típica corrección, podemos corregir rellenando plantillas previ
 Contactar  con  especialistas  y  grupos  a  distancia:
 
 Las posibilidades de una videoconferencia con otros grupos o con un especialista (un escitor, por ejemplo) abre grandes posibilidades, no sólo en cuanto a contenidos (preparar la entrevista, un tema en concreto,...) sino también en cuanto a los idiomas (conectar con el extranjero).
+
+
+%/accordion%
+
 

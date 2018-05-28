@@ -3,13 +3,12 @@
 * [Introducción](README.md)
 
 ____
-### MÓDULO 1: PRIMEROS PASOS | MÓDULO 1: PRIMEROS PASOS 
+### 1. PRIMEROS PASOS 
 * [MÓDULO 1: PRIMEROS PASOS](index0.md)
 * [Contenidos](contenidos.md)
 	* [U1. ¿Qué es la P.D.I.?](u1_qu_es_la_pdi.md)
 		* [1.1.Elementos](11elementos.md)
 		* [1.2.Ahora... ¡no funciona!](12ahora_no_funciona.md)
-		* [Ampliación](ampliacin.md)
 		* [1.3.A modo de resumen](13a_modo_de_resumen.md)
 	* [U2. ¿Por dónde empezar?](u2_por_dnde_empezar.md)
 		* [2.1.Primeras Sesiones](21primeras_sesiones.md)
@@ -19,7 +18,8 @@ ____
 		* [2.3.2.Pointofix](232pointofix.md)
 		* [2.3.3.Aclaración](233aclaracin.md)
 * [Ampliación de Contenidos: Resumen y WinRar](ampliacin_de_contenidos_resumen_y_winrar.md)
-* [Créditos](crditos.md)
+
+<!--
 ### MÓDULO 2: UN PASO MÁS | MÓDULO 2: UN PASO MÁS 
 * [MÓDULO 2: UN PASO MÁS](index1.md)
 * [Contenidos](contenidos1.md)
@@ -63,3 +63,6 @@ ____
 	* [U.6- Algunos accesorios](u6_algunos_accesorios.md)
 * [Ampliación de contenidos: Intranet y Cmaptools](ampliacin_de_contenidos_intranet_y_cmaptools.md)
 * [Créditos](crditos3.md)
+-->
+___
+* [Créditos](crditos.md)

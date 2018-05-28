@@ -19,10 +19,7 @@ La Pizarra Digital Interactiva cuenta con:
 4. Un **mando** a distancia o un cuadro de mandos en la pared, para poder accionar el videoproyector.
 
 
- ![pdi](img/Pizarradigitalinteractiva.jpg)
-
-
-Fig.1.4: [http://commons.wikimedia.org/wiki/File:Pizarradigitalinteractiva.jpg](http://commons.wikimedia.org/wiki/File:Pizarradigitalinteractiva.jpg). Dominio Público.
+[![Fig.1.4 - pdi. Dominio Público](img/Pizarradigitalinteractiva.jpg)](http://commons.wikimedia.org/wiki/File:Pizarradigitalinteractiva.jpg)
 
 El sistema PDI requiere la siguiente secuencia de encendido:
 
@@ -42,10 +39,10 @@ Por supuesto, el proceso de apagado puede evitarse previo acuerdo con las necesi
 Algunos modelos de pizarra precisan de **tiza digital** (**puntero**) , otros son táctiles y, para usarlas, utilizamos los dedos o unos punteros que nos permiten trabajar a una distancia idónea para que no haya interferencias en el trazo. Estas son las funciones de los botones del rotulador.
 
 
-![](img/tizadigital.jpg)
+![Fig.1.5: tiza digital](img/tizadigital.jpg)
 
 
-Fig.1.5: tiza digital
+
 
 Usa el rotulador, puntero o dedo sobre la pizarra con el cuerpo suficientemente alejado, de manera que ni la palma de la mano ni el codo toquen la superficie. Si alguna parte del cuerpo se acerca a menos de 1 cm de su superficie, el funcionamiento se verá afectado por la intereerencia y puede producirse una doble escritura.
 
@@ -67,15 +64,17 @@ Para el caso del **Star Board 9.20** de Hitachi, el procedimiento es simple. Deb
 
 En la retroalimentción encontrarás **videotutoriales** del proceso en esta y otras marcas (Smart y Promethean).
 
-var feedbackquesFeedback0b55text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 **Hitachi (StarBoard 9.20)**:
 
 **Smart:**
 
 **Promethean:**
+
+%/accordion%
+
+
 
 ## Tarea
 

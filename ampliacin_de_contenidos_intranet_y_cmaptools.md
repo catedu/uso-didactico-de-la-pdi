@@ -52,7 +52,7 @@ var feedbackquesFeedback0b41text = "Mostrar retroalimentación";
 
 Existen muchos tutoriales y ayudas sobre este programa. Aquí te proponemos un sencillo tutorial "paso a paso":
 
-## ParaSaberMas
+## Para saber más
 
 Si quieres ampliar tus conocimientos sobre mapas conceptuales, puedes visitar estas direcciones:
 

@@ -5,10 +5,10 @@ La PDI se ha convertido en una herramienta muy presente dentro de las aulas. Al 
 En primer lugar no todo lo que se cuenta es cierto....
 
 
- ![pizarradesenchufada](img/pizarradesenchufada.jpg)
+![Fig.1.19:De J.R. Olalla para el curso de Aularagon "Escuela 2.0"](img/pizarradesenchufada.jpg)
 
 
-Fig.1.19:De J.R. Olalla para el curso de Aularagon "Escuela 2.0"  
+  
 
 ## Reflexión
 
@@ -29,9 +29,7 @@ Seguramente habrás oído algunas frases como éstas en charlas, ponencias o cur
 
 ¿Cuál es tu opinión sobre ellas?
 
-var feedback27_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 El autor opina:
 
@@ -51,9 +49,11 @@ El autor opina:
 
 **Con una PDI ya soy un profesor 2.0.** Para sufrir "dosceritis" hace falta algo más. Seremos un profesor 2.0 si nuestra actitud y nuestras prácticas en el aula lo son, Néstor Alonso lo explica mejor que nadie en este [gráfico](http://www.flickr.com/photos/nestoralonso/5264656126/). Con una PDI únicamente seremos profesores con mucha suerte y una fantástica herramienta en nuestra aula para el aprendizaje.
 
+%/accordion%
+
 En segundo lugar, si tenemos una PDI ¡usémosla! No todo el mundo es un virtuoso ni un innovador el primer día. Usándola iremos aprendiendo,... cada día un paso más.
 
-## ParaSaberMas
+## Para saber más
 
 Vamos a utilizar un "**BLOG de Clase**" donde iremos colocando algunas de las actividades que realicéis.
 

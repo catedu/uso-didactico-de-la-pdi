@@ -31,7 +31,7 @@ Te invitamos a **que recorras los portales** de las diferentes Comunidades Autó
 
 **Saca tus conclusiones** y **ve realizando tu propia selección** de los portales que te parecen de mayor interés para tu área o nivel.
 
-## ParaSaberMas
+## Para saber más
 
 Algunas orientaciones de búsqueda:
 

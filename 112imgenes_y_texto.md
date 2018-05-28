@@ -110,7 +110,7 @@ Fig.2.20. Captura del programa
 
 **4- Guardar** el proyecto.
 
-## ParaSaberMas
+## Para saber más
 
 
 Si quieres realizar a mano alzada figuras geométricas, flechas de señalización,.... pero no te gusta cómo te quedan, cuentas con la herramienta "**Lápiz inteligente**" ![lapiz_intel](img/lapiz_intel.JPG)que las mejorará por tí.
