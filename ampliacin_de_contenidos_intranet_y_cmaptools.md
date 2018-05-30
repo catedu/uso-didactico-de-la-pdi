@@ -58,5 +58,5 @@ Si quieres ampliar tus conocimientos sobre mapas conceptuales, puedes visitar es
 
 \- Herramientas 2.0 para la enseñanza de idiomas ([Mapas conceptuales](https://sites.google.com/site/herramientasidiomas/mapas-conceptuales)).
 
-\- FacilyTIC ([Spycinodes](http://www.catedu.es/facilytic/2013/06/13/spycinodes-mapas-conceptuales-interactivos/)).
+\- FacilyTIC ([Spycinodes](http://facilytic.catedu.es/2013/06/13/spycinodes-mapas-conceptuales-interactivos/)).
 

@@ -6,6 +6,8 @@ Los audios (mp3) y vídeos (wmv o mpg) se pueden **abrir o importar**, pero sól
 
 Existe la posibilidad de integrar vídeo y audio en una explicación que preparemos, como **archivos adjuntos**, usando la opción de crear **hipervínculos**, como se muestra a continuación:
 
+{% youtube %}https://youtu.be/8fDJLr-q2co{% endyoutube %}
+
 ## Para saber más
 
 ### **Herramienta de grabación de la propia PDI**:
@@ -23,8 +25,8 @@ Es una herramienta muy sencilla con el símbolo de grabación, pausa y la posibi
 (La versión portable no tiene habilitada esta opción)
 
 
-![registrador](img/registrador.JPG)
+![Fig.2.32. Captura del programa](img/registrador.JPG)
 
 
-Fig.2.32. Captura del programa
+
 

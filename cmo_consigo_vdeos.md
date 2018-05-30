@@ -2,7 +2,7 @@
 
 Vamos a presentar alguna sencilla indicación de cómo conseguir vídeos para nuestra labor docente de alguno de los portales más habitualmente consultados en internet.
 
-No vamos a profundizar mucho en el tema, que sería objeto de otro curso, pero si quieres más información puedes consultar en [FacilyTIC](http://www.catedu.es/facilytic/2013/05/02/bajar-un-video-desde-internet/).
+No vamos a profundizar mucho en el tema, que sería objeto de otro curso, pero si quieres más información puedes consultar en [FacilyTIC](http://facilytic.catedu.es/2013/05/02/bajar-un-video-desde-internet/).
 
 Veamos un Ejercicio Resuelto.
 
@@ -11,10 +11,8 @@ Veamos un Ejercicio Resuelto.
 Imagina que estás estudiando el corazón y encuentras nevegando por internet un vídeo muy intersante:
 
 
-![youtube1](img/youtube1.JPG)
 
-
-Fig.2.33.Captura de [Youtube](https://www.youtube.com/watch?v=W2mik2uGZhQ)
+[![Fig.2.33.Captura de Youtube](img/youtube1.JPG)](https://www.youtube.com/watch?v=W2mik2uGZhQ)
 
 Podrías realizar un hipervínculo para verlo en clase, pero..... y si no va internet.
 
@@ -28,9 +26,7 @@ Vamos a ver sólo dos de las múltiples posibilidades que existen:
 
 \- Instalando un plugin en el navegador Firefox.
 
-var feedbackquesFeedback0b37text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 **Opción 1: Sin instalación**
 
@@ -51,16 +47,16 @@ Savefrom.net: [http://en.savefrom.net/](http://en.savefrom.net/)
 Funcionan de forma similar. Hay que copiar la dirección URL del vídeo que se quiere descargar (Ctrl+C) y se pega en el lugar habilitado para ello (Ctrl+V).
 
 
-![youtube2](img/youtube2.JPG)
+![Fig.2.34.Captura del programa](img/youtube2.JPG)
 
 
-Fig.2.34.Captura del programa
 
 
-![youtube3](img/youtube3.JPG)
+
+![Fig.2.35.Captura del programa](img/youtube3.JPG)
 
 
-Fig.2.35.Captura del programa
+
 
 Como se puede ver ambos posibilitan la opción de descarga en **diferentes formatos**. Por facilidad de descarga y tamaño es recomendable la opción **FLV**.
 
@@ -68,7 +64,7 @@ Esto conlleva otro problema, relacionado con el software de la PDI, ya que este 
 
 Para ello habría que **cambiar el formato** de lo que hablaremoa en "**Ampliación de contenidos**" al final del Tema.
 
-**\-** También está [ClipConverter](http://www.clipconverter.cc/), que descarga en cualquier formato y del que encontrarás información en [FacilyTIC](http://www.catedu.es/facilytic/2013/10/17/clip-converter-o-como-convertir-y-descargar-fragmentos-de-videos-y-audio-de-youtube/).
+**\-** También está [ClipConverter](http://www.clipconverter.cc/), que descarga en cualquier formato y del que encontrarás información en [FacilyTIC](http://facilytic.catedu.es/2013/10/17/clip-converter-o-como-convertir-y-descargar-fragmentos-de-videos-y-audio-de-youtube/).
 
 **Opción 2: Instalando un Plugin en Firefox.**
 
@@ -81,8 +77,12 @@ Pulsando la opción elegida, nos solicitará lugar y nombre para guardarlo.
 Tras un proceso más o menos largo en función del tamaño del vídeo, lo tendremos en nuestro ordenador.
 
 
-![dhelper1](img/dhelper1.jpg)
+![Fig.2.36.Captura del programa](img/dhelper1.jpg)
 
 
-Fig.2.36.Captura del programa
+
+
+
+%/accordion%
+
 

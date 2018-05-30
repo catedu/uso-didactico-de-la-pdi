@@ -2,19 +2,9 @@
 
 Vamos a intentar hacer algo como ésto:
 
+![Fig.2.12. Realización propia.](img/corola.JPG)
 
-![fig2.12](img/corola.JPG)
-
-
-                         Fig.2.12. Realización propia.
-
-
-![fig2.13](img/portada_ud.JPG)
-
-
-Fig.2.13. Realización propia.
-
-                  
+![Fig.2.13. Realización propia.](img/portada_ud.JPG)
 
 ## Caso práctico
 
@@ -22,19 +12,14 @@ Crearemos un archivo en el que se incluya imagen y texto. El objetivo es doble: 
 
 Puede ser la portada de nuestra unidad didáctica, una imagen con explicaciones superpuestas, un mapa, una lámina de anatomía,....
 
-var feedbackquesFeedback0b17text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 **1-** Una vez abierto el software, vamos a **insertar una imagen**. Para ello hay varios procedimientos:
 
 *   **Desde la Galería**: (Recuerda que si trabajas con el software portable no tendrás imágenes incluidas)
 
 
-![fig2.14](img/galeria.JPG)
-
-
-Fig.2.14. Captura del programa
+![Fig.2.14. Captura del programa](img/galeria.JPG)
 
 Tanto si eliges una imagen de la galería del programa como de "mis imágenes", **bastará arastrarla** y soltarla en el lugar que deseemos (como vimos en el tutorial inicial).
 
@@ -43,10 +28,10 @@ Si se toca con el cursor **se puede mover la imagen o modificarla**.
 La propia galería nos da opciones para insertar las imágenes, desde el pequeño triángulo que tienen debajo.
 
 
-![fig2.15](img/galeria1.JPG)
+![Fig.2.15. Captura del programa](img/galeria1.JPG)
 
 
-Fig.2.15. Captura del programa
+
 
 *    **Una imagen de Internet:**
 
@@ -57,34 +42,34 @@ Si has elegido **copiar**, bastará con ir al lugar donde quieras colocarla y se
 Si has elegido **guardar imagen**, para colocara en la pizarra deberás seguir la ruta **Menu>Insertar>Imagen**
 
 
-![fig2.16](img/imagen1.JPG)
+![Fig.2.16. Captura del programa](img/imagen1.JPG)
 
 
-Fig.2.16. Captura del programa
+
 
 **Una captura de pantalla**:
 
 
-![fig2.17](img/captura.JPG)
+![Fig.2.17. Captura del programa](img/captura.JPG)
 
 
-Fig.2.17. Captura del programa
 
 
-![fig2.18](img/Captura2.JPG)
+
+![Fig.2.18. Captura del programa](img/Captura2.JPG)
 
 
-Fig.2.18. Captura del programa
+
 
 Pulsar el botón de **Modo PC **(Modo Ratón), que nos permite acceder al ordenador como tal.  Buscamos la imagen que deseamos capturar y activamos la herramienta "_Captura de pantalla_".  
 
 Lo que abre estas opciones:
 
 
-![fig2.17](img/Captura1.JPG)
+![Fig.2.19. Captura del programa](img/Captura1.JPG)
 
 
- Fig.2.19. Captura del programa
+ 
 
  Lo recomendable es ir al _Menú de Opciones_ y **desactivar _Pegado_ _automático_** (Fig.2.18) ya que si no al hacer una captura, la pegará automáticamente en una nueva página al final del documento.
 
@@ -97,18 +82,22 @@ Si has desactivado esa opción,una vez hecha la captura, se vuelve al programa d
 En la **barra contextual de opciones** de la parte inferior, podemos modificar la fuente, el tamaño, la alineación, las características o el color del texto (como vimos en el tutorial inicial).  
 
 
-![fig2.21](img/herramientas.JPG)
+![Fig.2.21. Captura del programa](img/herramientas.JPG)
 
 
-Fig.2.21. Captura del programa
 
 
-![fig2.20](img/bloquear.JPG)
+
+![Fig.2.20. Captura del programa](img/bloquear.JPG)
 
 
-Fig.2.20. Captura del programa
+
 
 **4- Guardar** el proyecto.
+
+
+%/accordion%
+
 
 ## Para saber más
 

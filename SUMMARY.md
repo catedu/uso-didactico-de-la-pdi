@@ -3,6 +3,7 @@
 * [Introducción](README.md)
 
 ____
+<!--
 ### 1. PRIMEROS PASOS 
 * [MÓDULO 1: PRIMEROS PASOS](index0.md)
 * [Contenidos](contenidos.md)
@@ -19,9 +20,8 @@ ____
 		* [2.3.3.Aclaración](233aclaracin.md)
 * [Ampliación de Contenidos: Resumen y WinRar](ampliacin_de_contenidos_resumen_y_winrar.md)
 
-<!--
-### MÓDULO 2: UN PASO MÁS | MÓDULO 2: UN PASO MÁS 
-* [MÓDULO 2: UN PASO MÁS](index1.md)
+### 2. UN PASO MÁS 
+* [UN PASO MÁS](index1.md)
 * [Contenidos](contenidos1.md)
 	* [U1. Todo empieza con un "clic"](u1_todo_empieza_con_un_clic.md)
 		* [1.1.El Software](11el_software.md)
@@ -40,8 +40,9 @@ ____
 		* [2.3.Interwrite](23interwrite.md)
 		* [2.4.Open Sankoré](24open_sankor.md)
 * [Ampliación de Contenidos: imagen y vídeo.](ampliacin_de_contenidos_imagen_y_vdeo.md)
-* [Créditos](crditos1.md)
-### MÓDULO 3: ¿CÓMO LO HAGO? | Módulo 3: ¿CÓMO LO HAGO? 
+-->
+
+### 3. ¿CÓMO LO HAGO? 
 * [MÓDULO 3: ¿CÓMO LO HAGO?](index2.md)
 * [Contenidos](contenidos2.md)
 	* [U.1:Pararse a pensar](u1pararse_a_pensar.md)
@@ -51,9 +52,10 @@ ____
 	* [U.5: Cambios de rol](u5_cambios_de_rol.md)
 	* [U.6: Las Competencias Básicas](u6_las_competencias_bsicas.md)
 * [Ampliación de contenidos: VNC y Webquest](ampliacin_de_contenidos_vnc_y_webquest.md)
-* [Créditos](crditos2.md)
-### MÓDULO 4: Y LOS MATERIALES? | Módulo 4: Y LOS MATERIALES? 
-* [MÓDULO 4: Y LOS MATERIALES?](index3.md)
+
+<!--
+### 4. Y LOS MATERIALES? 
+* [Y LOS MATERIALES?](index3.md)
 * [Contenidos](contenidos3.md)
 	* [U.1- Desde las Instituciones](u1_desde_las_instituciones.md)
 	* [U.2- Materiales curriculares](u2_materiales_curriculares.md)

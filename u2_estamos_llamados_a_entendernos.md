@@ -2,19 +2,21 @@
 
 Una vez la **PDI** en las aulas, incluida dentro del proceso de enseñanza-aprendizaje, se plantean nuevos e **importantes retos**. No es cuestión de “saber informática” sino de **estar dispuestos a integrar las TIC como una herramienta didáctica más**.
 
-## Importante
-
-Los retos que nos han de motivar, como docentes, son los **RETOS PEDAGÓGICOS**. Como ya dijimos en el módulo 1:
-
- **NO** somos **informátic@s**, **somos DOCENTES que trabajamos con las TIC.**
+>**info**
+>
+>## Importante
+>
+>Los retos que nos han de motivar, como docentes, son los **RETOS PEDAGÓGICOS**. Como ya dijimos en el módulo 1:
+>
+> **NO** somos **informátic@s**, **somos DOCENTES que trabajamos con las TIC.**
 
 La incorporación de las Tecnologías de la Información y la Comunicación ha sido y es uno de los mayores desafíos del sistema educativo.
 
 **Hemos pasado de "aprender informática" a "aprender utilizando las herramientas informáticas"** y la PDI puede ayudar en ese proceso educativo, al servir al mismo tiempo  como vehículo de comunicación y como instrumento de intercambio.
 
-Es, pues, **un aliado o un enemigo?** Todo dependerá de cómo nos aproximemos a esta realidad:
+Es, pues, **un aliado o un enemigo?** Todo dependerá de cómo nos aproximemos a esta realidad.
 
-Adaptado de J.R. Olalla en Escuela 2.0 para Aularagon
+<iframe src="https://docs.google.com/presentation/d/11jtCghLXqdULAD25DRDjX65nqyDt0Fl7Em6OnijBvTM/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="600"></iframe>
 
 Fran Iglesias ..." _Lo cierto es que el ente abstracto “escuela” parece querer vivir impermeable a los cambios y hasta experimenta un cierto rechazo por las propias “ciencias de la educación”. Para decirlo en pocas palabras: la escuela debería integrar la tecnología porque forma parte del abanico de herramientas que están disponibles hoy_."
 

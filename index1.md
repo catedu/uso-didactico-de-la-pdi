@@ -5,20 +5,9 @@ Hemos visto algunas de las posibilidades que nos ofrece la PDI utilizando progra
 Cada marca de PDI ofrece un software propio que, aunque con una serie de **características comunes** (posibilidad de escribir "a mano alzada" en la pizarra, fondos diversos, inclusión de figuras e imágenes, recursos propios, reconocimiento de escritura,....) ofrecen **diferencias** , unas menos importantes como necesitar o no un "lápiz digital",  otras más, como los formatos en que se guardan los proyectos para su reutilización.....
 
 
-![fig2.1](img/smart.jpg)
+[![Fig.2.1.LicenciaAlgunos derechos reservados por SMART España.](img/smart.jpg)]((http://www.flickr.com/photos/smartespana/))
 
-
-Fig.2.1.Licencia[Algunos derechos reservados](http://creativecommons.org/licenses/by/2.0/ "Attribution License")por[SMART España](http://www.flickr.com/photos/smartespana/).
-
-En: [http://www.flickr.com/photos/](http://www.flickr.com/photos/smartespana/4454056835/sizes/m/in/photostream/)
-
-
-![fig2.2](img/maestra_pdi.jpg)
-
-
-Fig.2.2. Licencia[Algunos derechos reservados](http://creativecommons.org/licenses/by-nd/2.0/ "Attribution-NoDerivs License")por[TEDxPeachtree](http://www.flickr.com/photos/tedxpeachtree/)
-
-En: [http://www.flickr.com/photos/](http://www.flickr.com/photos/tedxpeachtree/8177663121/sizes/m/in/photostream/)
+[![Fig.2.2. Licencia Algunos derechos reservados por TEDxPeachtree](img/maestra_pdi.jpg)]((http://www.flickr.com/photos/tedxpeachtree/))
 
 Existen intentos por superar estas diferencias y crear un softwar libre para PDI y que trabaje con formatos universales, como [Open Sankoré](http://sankore.org/). La propuesta es muy buena: software libre y gratuito y un formato (.iwb) común.... pero **las grandes compañías no quieren ceder en sus privilegios** (sólo Smart reconoce ese formato y por ejemplo el puntero de Starboard de Hitachi no funciona en este programa), así que tendremos que trabajar con lo que tenemos en cada aula.
 

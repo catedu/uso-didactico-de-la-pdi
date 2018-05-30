@@ -38,7 +38,7 @@ Algunas de estas herramientas ofrecen, sus propios **bancos de recursos**:
 
 De **eXeLearning**, no tenemos un banco de recursos, pero presentamos unos ejemplos [1](http://www.cepazahar.org/recursos/file.php/46/Proyectos/Miguelhernandez/index.html) y [2](http://s335272561.mialojamiento.es/CD/index.html)
 
-Existe otra herramienta, **Ardora**, de la que puedes encontrar información en [FacilyTIC](http://www.catedu.es/facilytic/2013/04/30/ardora/).
+Existe otra herramienta, **Ardora**, de la que puedes encontrar información en [FacilyTIC](http://facilytic.catedu.es/2013/04/30/ardora/).
 
 ## Importante
 

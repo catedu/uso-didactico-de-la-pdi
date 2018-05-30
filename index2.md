@@ -8,7 +8,7 @@ Pero ¿cómo es el alumnado con el que trabajamos? ¿en qué realidad nos estamo
 
 En este **vídeo** del programa Redes de TVE "**Crear hoy las Escuelas de mañana**", **Richard Gerver** presenta una realidad que no podemos pasar por alto. Cree en devolver la pasión por la enseñanza a los profesores y el placer del aprendizaje a los alumnos sin perder de vista el entorno tecnológico en el que nos movemos.
 
-En: [http://www.rtve.es/television/20101213/crear-hoy-escuelas-manana/385896.shtml](%20http://www.rtve.es/television/20101213/crear-hoy-escuelas-manana/385896.shtml)
+{% youtube %}https://youtu.be/j9TkLH9O4Qw{% endyoutube %}
 
 ## Objetivos
 

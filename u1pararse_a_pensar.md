@@ -2,6 +2,8 @@
 
 En los últimos años hemos visto (sufrido?) varios cambios sucesivos que se han dado en las aulas: **pizarra tradicional, pizarra digital** (ordenador+proyector+pantalla)**, pizarra digital interactiva**. Incluso, en algunos casos, se ha pasado directamente de la pizarra tradicional a la PDI, **sin dar tiempo a reflexionar suficientemente** sobre lo que la introducción de estas nuevas tecnologías suponía, trasladando el uso de la pizarra tradicional a la digital, **sin cambios en la forma de hacer y de enseñar**.
 
+{% youtube %}https://youtu.be/Hxtotqi2b_Y{% endyoutube %}
+
 ## Actividad de lectura
 
 .... "_Muchos pensamos en su momento que la Pizarra digital interactiva sería la transformación en objeto, de todos aquellos sueños que los docentes nos imaginábamos tener en un aula a la hora de impartir una clase magistral. Rápidamente nos dimos cuenta del error, las posibilidades son tan abiertas que  la tradicional clase magistral, se ha convertido, por fin, en una actividad educativa, que permite la participación, no solo durante la clase, sino más allá de ella (con otros grupos, en otros momentos). Es más, con la llegada entre otras de la PDI nos hemos dado cuenta de que la clase magistral tradicional puede carecer de sentido hoy día._
@@ -27,9 +29,11 @@ _**Luego fuimos aprendiendo...**_
 
 ¿Qué te parecen estas reflexiones? ¿Te has empezado a plantear cosas parecidas? ¿Estás en acuerdo o en desacuerdo?...
 
-var feedback15\_36\_6text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Sólo pararte a pensar en todo ésto es ya un gran logro. En muchas ocasiones las prisas del curso, lo apretado de las evaluaciones, el cambio de destino, la idiosincrasia de cada centro, la costumbre,.... Hacen que nos encontremos con los medios tecnológicos y no nos hayamos podido parar a pensar un momento en para qué los vamos a usar.
+
+%/accordion%
+
+
 

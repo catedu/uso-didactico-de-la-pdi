@@ -12,9 +12,9 @@ Se entiende bien con el **formato de Smart**, por lo que puede hacer uso de sus 
 
 Estas piazarras cuentan con la aplicación **Activote**, para recibir las respuestas enviadas por los alumnos, si éstos cuentan con los dispositivos para interactuar con la PDI.
 
-Aquí tienes un tutorial:
+[Aquí](https://issuu.com/cursopdi/docs/promet_) tienes un tutorial.
 
-*   **Para saber más**:
+### Para saber más:
 
 Blog con manuales, talleres, ejemplos,...: [http://escuelatic20pdipromethean.blogspot.com.es/search/label/2.Manuales%20Promethean](http://escuelatic20pdipromethean.blogspot.com.es/search/label/2.Manuales%20Promethean)
 

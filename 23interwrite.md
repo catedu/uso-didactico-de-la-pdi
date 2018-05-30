@@ -10,7 +10,8 @@ Cuenta también con entrada para recibir la interacción del alumnado mediante d
 
 Aquí tienes un manual de uso de la propia compañía:
 
-*   **Para saber más**:
+### Para saber más:
 
-Vídeo aspectos generales: [http://www.youtube.com/watch?v=zCvYm-5bfE4](http://www.youtube.com/watch?v=zCvYm-5bfE4)
+Vídeo aspectos generales:
 
+{% youtube %}http://www.youtube.com/watch?v=zCvYm-5bfE4{% endyoutube %}

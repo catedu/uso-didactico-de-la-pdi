@@ -14,9 +14,9 @@ Es una buena herramienta pero para su manejo o bien hay que tener el software pr
 
 Para descargar el software: [http://open-sankore.org/](http://open-sankore.org/)
 
-Aquí dejamos un manual con sus posibilidades:
+[Aquí dejamos un manual con sus posibilidades](https://issuu.com/cursopdi/docs/sanko_).
 
- **Para saber más**:
+### Para saber más:
 
 Manual de instalación y manejo básico: [http://www.slideshare.net/vbarbero/instalacin-y-uso-de-open-sankor](http://www.slideshare.net/vbarbero/instalacin-y-uso-de-open-sankor)
 

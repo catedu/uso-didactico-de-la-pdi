@@ -1,5 +1,7 @@
 # Licencias y Permisos
 
+
+
 En la actualidad, el profesorado tiene una gran **preocupación por los derechos de autor**. Nos encontramos básicamente con dos problemas:
 
 1.  ¿Cómo sé si puedo utilizar un determinado material de otro autor?
@@ -30,14 +32,7 @@ Los **hipervínculos** no violan los derechos de autor, puedes utilizar líbreme
 
 \- [Google Imágenes](http://www.google.com/imghp?hl=es): Es una de las formas más habituales de buscar imágenes en internet, pero las búsquedas que solemos realizar no filtran las imágenes por licencias... normalmente TODO tiene derechos reservados.
 
-
-![cc](http://upload.wikimedia.org/wikipedia/commons/archive/2/2c/20110309163948!Licensing_tutorial_es.svg)
-
-
-Fig.2.22: [Wikipedia Commons](http://commons.wikimedia.org/wiki/File:Licensing_tutorial_es.svg#filelinks), [CC-BY-SA-3.0](http://commons.wikimedia.org/wiki/Category:CC-BY-SA-3.0 "Category:CC-BY-SA-3.0")
-
 Cuando estás en la página de **Google Imágenes** y vas a realizar una búsqueda, arriba a la derecha hay una rueda dentada que indica las **opciones**. Seleccionamos **"Búsqueda avanzada"**. Dentro de todas las posibilidades que nos ofrece esta búsqueda, la última es "**derechos de uso**". Aquí seleccionaremos la licencia que nos interese.
-
 
 ![licencias](img/licencias.JPG)
 
@@ -49,8 +44,6 @@ Pero también cuando realizas una búsqueda normal, arriba a la derecha está "*
 
 ![flickr](img/flickr.JPG)
 
-
-\- Hay **buscadores específicos**, por ejemplo [CATEDU](http://www.catedu.es/webcatedu/index.php/recursosdidacticos/recursos-libres) ha recopilado diferentes bancos de recursos tanto de audio como de imagen.
-
 Más [Información](https://es.wikipedia.org/wiki/Creative_Commons) sobre Creative Commons.
 
+[![Fig.2.22: Wikipedia Commons, CC-BY-SA-3.0](http://upload.wikimedia.org/wikipedia/commons/archive/2/2c/20110309163948!Licensing_tutorial_es.svg)](http://commons.wikimedia.org/wiki/File:Licensing_tutorial_es.svg#filelinks)

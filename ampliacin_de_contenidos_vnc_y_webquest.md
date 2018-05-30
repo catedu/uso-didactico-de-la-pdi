@@ -23,7 +23,7 @@ Esta funcionalidad nos abre dos posibilidades básicas de uso:
 1.  Para **controlar** lo que está haciendo el alumnado con facilidad y sin que éste se dé cuenta. Aunque no es su uso más ventajoso ni didáctico, ni debe abusarse de él, es bueno que los alumnos se sepan controlados.
 2.  Para **visualizar en la PDI las aportaciones que hacen los alumnos** en su miniportátil, sin tener que desplazarse ni interrumpir la dinámica del aula. Esta es la funcionalidad más didáctica e interesante: visualizar trabajos, corregirlos, presentar informaciones con agilidad,...
 
-Para descargar y conocer su configuración visita [FacilyTIC](http://www.catedu.es/facilytic/2013/04/30/control-del-aula/).
+Para descargar y conocer su configuración visita [FacilyTIC](http://facilytic.catedu.es/2013/04/30/control-del-aula/).
 
 ### WEBQUEST:
 

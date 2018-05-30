@@ -7,10 +7,10 @@ Lo cierto es que **la integración las TIC en la vida de las aulas** (incluida l
 Pero ¿que es innovación?
 
 
-![innovacion](http://s2.subirimagenes.com/imagen/6996293innoveision7.gif)
+[![Fig.3.1. En: subirimagenes.com](http://s2.subirimagenes.com/imagen/6996293innoveision7.gif)](http://www.subirimagenes.com/imagen-innoveision7-6996293.html)
 
 
-Fig.3.1. En: [subirimagenes.com](http://www.subirimagenes.com/imagen-innoveision7-6996293.html)
+
 
 Cuando hablamos de innovar, nos vienen a la mente imágenes de aparatos tecnológico o montajes más o menos sofisticados en cualquier ámbito del saber. En Educación, pensamos que es algo sólo al alcance de algunos "iluminados" que son los que después dan conferecias y escriben artículos.
 
@@ -22,9 +22,7 @@ Te presentamos un extracto del artículo del [Proyecto GRIMM](http://www.proyect
 
 Te proponemos que, tras leerlo (En "Pulse aquí"), reflexiones y pienses en cómo lo podrías llevar a la realidad de tu área, tu aula,...
 
-var feedback28_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 #### _(...) Pero, ¿cómo hago entonces?_
 
@@ -61,6 +59,10 @@ _Pongamos por ejemplo que propones la realización de un podcast sobre temas de 
 _Eso sí: en ese viaje habrán aprendido algo sobre el contenido, pero también sobre el método de trabajo, sobre la búsqueda de información, sobre el lenguaje oral y la comunicación._
 
 _Y tú, seguramente, también._
+
+
+%/accordion%
+
 
 ## Para saber más
 

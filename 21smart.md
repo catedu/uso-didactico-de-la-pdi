@@ -14,9 +14,9 @@ Admiten archivos generados desde las PDI Promethean (.flp) o Sankoré (.iwb) que
 
 Cuenta con una herramienta específica para conectar la **cámara de documentos** de su propia marca.
 
-**[Manual smart notebook](https://www.slideshare.net/baezafgto/manual-smart-notebook "Manual smart notebook")** from **[CEIP Antonio Machado](http://www.slideshare.net/baezafgto)**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/iLWmVJFWJ55ypY" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
-*   **Para saber más**:
+### Para saber más:
 
 Vídeo de Introducción al software: [http://www.youtube.com/watch?v=yd5wO488v5o](http://www.youtube.com/watch?v=yd5wO488v5o)
 

@@ -16,7 +16,7 @@ _\-_ **Autoevaluación**, evaluación entre iguales, ...
 
 ## Tarea
 
-Cosulta estas propuestas en [FacilyTIC](http://www.catedu.es/facilytic/2013/04/30/como-los-pc-nos-pueden-ayudar-a-conseguir-las-competencias-basicas-orientaciones-metodologicas/) que Jesús Gil Alejandre escribió cuando tablets-pc y competencias básicas comenzaron a convivir en las aulas, pero que están plenamentes vigente y saca tus propias conclusiones.
+Cosulta estas propuestas en [FacilyTIC](http://facilytic.catedu.es/2013/04/30/como-los-pc-nos-pueden-ayudar-a-conseguir-las-competencias-basicas-orientaciones-metodologicas/) que Jesús Gil Alejandre escribió cuando tablets-pc y competencias básicas comenzaron a convivir en las aulas, pero que están plenamentes vigente y saca tus propias conclusiones.
 
 (Se habla en ellas del programa VNC. Si te interesa tienes más información en el propio artículo o en "Ampliación de contenidos" al final del módulo)
 

@@ -59,5 +59,5 @@ Vamos a utilizar un "**BLOG de Clase**" donde iremos colocando algunas de las ac
 
 Podría parece un contenido no propio de este curso, aunque su potencial para trabajarlo en el aula con la PDI es enorme y, precisamente lo vamos a usar para que, en el caso de que todavía no lo conozcas, descubras sus posibilidades educativas y de participación.
 
-Utilizaremos un Blog de Arablogs, así que si no estás familiarizad@ con su manejo, aquí tienes [este artículo](http://www.catedu.es/facilytic/2013/10/16/manuales-y-tutoriales-de-arablogs/) de la página FacilyTIC, que incluye un pequeño manual.
+Utilizaremos un Blog de Arablogs, así que si no estás familiarizad@ con su manejo, aquí tienes [este artículo](http://facilytic.catedu.es/2013/10/16/manuales-y-tutoriales-de-arablogs/) de la página FacilyTIC, que incluye un pequeño manual.
 
