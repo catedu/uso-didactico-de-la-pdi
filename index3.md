@@ -6,7 +6,7 @@ Ya hemos visto en el módulo 2 la posibilidad de uso de imágenes, flash y víde
 
 Veamos este vídeo en el que una profesora muestra algunas de las posibilidades de estos **ODE**s.
 
-[Soledad Gómez](http://www.youtube.com/user/Soledadgomezgarcia?feature=watch)en [Youtube](http://www.youtube.com/).
+{% youtube %}https://youtu.be/gm_7Rd62k_M{% endyoutube %}
 
 ## Objetivos
 

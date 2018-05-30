@@ -13,10 +13,7 @@ En el **caso de que nuestro alumnado trabaje con mini ordenadores o tablet PC**,
 El uso del sistema Teklo-VNC permite al profesor tomar el control de un ordenador o miniportátil de cualquiera de los alumnos que están en la misma red.
 
 
-![vnc](img/vnc.jpg)
-
-
-Fig.3.5. de J.R. Olalla para Escuela 2.0
+![Fig.3.5. de J.R. Olalla para Escuela 2.0](img/vnc.jpg)
 
 Esta funcionalidad nos abre dos posibilidades básicas de uso:
 
@@ -36,10 +33,10 @@ En dos palabras es un recurso didáctico que consiste en una búsqueda de inform
 La definición más amplia, que incluye conceptos más complejos como el de evaluación o trabajo cooperativo, responde a una estructura o modelo que se ha ido estandarizando y que, en algunos casos, resta libertad al profesorado en su creatividad. (Fig.3.7)
 
 
-![webquest](img/webquest.jpg)
+[![Fig.3.6.Licencia Algunos derechos reservados por M. Martin Vicente](img/webquest.jpg)](http://www.flickr.com/photos/martius/8630319355/sizes/m/in/photostream/)
 
 
-Fig.3.6.Licencia [Algunos derechos reservados](http://creativecommons.org/licenses/by/2.0/ "Attribution License") por [M. Martin Vicente](http://www.flickr.com/photos/martius/) En: [http://www.flickr.com/](http://www.flickr.com/photos/martius/8630319355/sizes/m/in/photostream/)
+
 
 No negaremos que es muy interesante conocer este modelo porque ofrece ventajas y cubre más aspectos didácticos, aunque para empezar, se puede partir por ofrecer al alumnado un reto de búsqueda por internet, independientemente de su formato o estructura.
 
@@ -47,21 +44,11 @@ Como docentes **hemos de formar al alumnado en la búsqueda, reflexión, verific
 
 Este es un contenido tan importante que **no podemos dejar a los alumnos sólos sin unas pautas claras** de cómo realizar este proceso. De aquí surge la necesidad de facilitarles una búsqueda dirigida, con unas pautas escritas que les eduquen en una forma correcta de desarrollarla. **Esto son realmente las webquest**.
 
-Información más detallada: [**Edutec** (Jordi Adell)](http://www.uib.es/depart/gte/edutec-e/revelec17/adell_16a.htm)
+![Fig.3.7.de Escuela 2.0 Usos didácticos de las TIC en Aulragon](img/webquest1.JPG)
 
-Ejemplo: [Nuestro viaje de estudios](http://catedu.es/crear_wq/wq/home/2060/).
+Ejemplos de diferentes variantes:
 
-[Editor de webquest](http://catedu.es/crear_wq/z_usuarios/ingreso_usuarios.php) de CATEDU. (hay que darse de alta)
-
-
-![webquest1](img/webquest1.JPG)
-
-
-Fig.3.7.de Escuela 2.0 Usos didácticos de las TIC en Aulragon
-
- Ejemplos de diferentes variantes:
-
-\- **Miniquest**: versión de las Webquests que se reducen o centran tan sólo en tres pasos: escenario, trabajo y producto. [El cantar de Mío Cid](http://www.juntadeandalucia.es/averroes/sanwalabonso/wqyct/mq_elcidcampeador/trabajo.htm)
+\- **Miniquest**: versión de las Webquests que se reducen o centran tan sólo en tres pasos: escenario, trabajo y producto.
 
 \- **Caza del Tesoro**: Consisten en una serie de preguntas y un listado de direcciones web en que el alumnado ha de buscar las respuestas. Al final, aparece la gran pregunta, cuya respuesta no debe aparecer directaente en las páginas visitadas, exigiendo al alumno integrar y valorar lo aprendido durante la búsqueda. P.ej:
 

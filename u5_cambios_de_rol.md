@@ -10,20 +10,16 @@ _**Aprender no sólo es adquirir información, sino desarrollar habilidades y de
 **_
 
 
-![chicos_participan](img/chicos_participan.jpg)
+[![Fig.3.2.Licencia Algunos derechos reservados por flickingerbrad](img/chicos_participan.jpg)](http://www.flickr.com/photos/56155476@N08/6659980643/sizes/m/in/photostream/)
 
 
-Fig.3.2.Licencia [Algunos derechos reservados](http://creativecommons.org/licenses/by/2.0/ "Attribution License") por [flickingerbrad](http://www.flickr.com/photos/56155476@N08/)
-
-En: [http://www.flickr.com/](http://www.flickr.com/photos/56155476@N08/6659980643/sizes/m/in/photostream/)
 
 
-![pizarra_chicos](img/pizarra_chicos.jpg)
 
 
-Fig.3.3.Licencia [Algunos derechos reservados](http://creativecommons.org/licenses/by/2.0/ "Attribution License") por [kjarrett](http://www.flickr.com/photos/kjarrett/)
+[![Fig.3.3.Licencia Algunos derechos reservados por kjarrett](img/pizarra_chicos.jpg)](http://www.flickr.com/photos/kjarrett/5339132310/sizes/m/in/photostream/)
 
-En: [http://www.flickr.com/](http://www.flickr.com/photos/kjarrett/5339132310/sizes/m/in/photostream/)
+
 
 El **docente** debe ser el **intermediario** entre los aprendizajes, el contexto y los estudiantes, **orientando todo el proceso**: seleccionando o incluso creando los recursos, indicando dónde y cómo obtener información, presentándola de forma estructurada y motivante, favoreciendo el diálogo e intercambio entre todos y utilizando los medios tecnológicos a favor del apendizaje.
 
@@ -32,13 +28,13 @@ En este contexto, la **pizarra digital es un gran aliado**  tanto para comparti
 
 ## Tarea
 
-Resuelve y reflexiona sobre los nuevos roles de profesor y alumno:
+Resuelve y reflexiona sobre los nuevos roles de profesor y alumno resolviendo [este puzzle](https://www.jigsawplanet.com/?rc=play&pid=345d06856f4b).
 
 ## Para saber más
 
 \- Si quieres profundizar en el modelo **MIE-CAIT**:
 
-[Modelo CAIT](https://www.slideshare.net/grabajoli/modelo-cait "Modelo CAIT") from [Graciela Rabajoli](http://www.slideshare.net/grabajoli)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8viVZdV2sdzQWM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/grabajoli/modelo-cait" title="Modelo CAIT" target="_blank">Modelo CAIT</a> </strong> from <strong><a href="https://www.slideshare.net/grabajoli" target="_blank">FLACSO URUGUAY</a></strong> </div>
 
 \- También puedes consultar la página de Pere Marqués: [http://peremarques.pangea.org/miecait.htm](http://peremarques.pangea.org/miecait.htm)
 
@@ -48,12 +44,12 @@ Resuelve y reflexiona sobre los nuevos roles de profesor y alumno:
 
 \- **Aprendizaje por Proyectos**:
 
-**[Aprendizaje Por Proyectos](https://www.slideshare.net/camog70/aprendizaje-por-proyectos "Aprendizaje Por Proyectos")** from **[camog70](http://www.slideshare.net/camog70)**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/huGCKaG3mUuISy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/camog70/aprendizaje-por-proyectos" title="Aprendizaje Por Proyectos" target="_blank">Aprendizaje Por Proyectos</a> </strong> from <strong><a href="https://www.slideshare.net/camog70" target="_blank">camog70</a></strong> </div>
 
 \- **Aprendizaje Colaborativo**: se propone este [artículo](https://drive.google.com/file/d/0B7FUMXVVYuSOTFlEdnJzSUxPM2M/edit?usp=sharing) sobre el aprendizaje colaborativo y las TIC.
 
 
-![colaborativo](img/COLABORATIVO.jpg)  
+![Fig.3.4. de J.R. Olalla para Escuela 2.0](img/COLABORATIVO.jpg)  
 
-Fig.3.4. de J.R. Olalla para Escuela 2.0
+
 

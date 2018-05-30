@@ -15,10 +15,7 @@ El resto, o no tienen un espacio dedicado a recursos educativoso es bastante pob
 La ventaja de estos recursos es que suelen estar listos para ser usados en el aula. El inconveniente, que suelen estar realizados en el software propio de esa pizarra (por tanto no utilizable en otras marcas).
 
 
-![uso_pdi](img/uso_pdi.jpg)
-
-
-Fig.4.1.Licencia [Algunos derechos reservados](http://creativecommons.org/licenses/by-sa/2.0/ "Attribution-ShareAlike License") por [nestoralonso](http://www.flickr.com/photos/nestoralonso/) En: [Flickr](http://www.flickr.com/photos/nestoralonso/4338575646/sizes/m/in/photostream/)
+[![Fig.4.1.Licencia Algunos derechos reservados por nestoralonso En: Flickr](img/uso_pdi.jpg)](http://www.flickr.com/photos/nestoralonso/4338575646/sizes/m/in/photostream/)
 
 *   En **sus Blogs o Páginas web**, individuales o de centro. Hay muchos ejemplos de ello y sería imposible ponerlos todos, así que sólo mostramos algunos ejemplo interesantes:
     *   Centros:
@@ -36,7 +33,7 @@ Fig.4.1.Licencia [Algunos derechos reservados](http://creativecommons.org/licens
 
 *   En espacios para **compartir en red** (web 2.0). Entre otros: [Slidesahre](http://www.slideshare.net/?ss), [Scribd](http://es.scribd.com/), [Issuu](http://issuu.com/), [YoutubeEdu](https://www.youtube.com/education),... Un ejemplo:
 
-**[Recursos Secundaria y Bachillerato](https://www.slideshare.net/carmenmellado/recursos-secundaria-y-bachillerato "Recursos Secundaria y Bachillerato")** from **[carmenmellado](http://www.slideshare.net/carmenmellado)**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/b2EGoffILmHjTG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/carmenmellado/recursos-secundaria-y-bachillerato" title="Recursos Secundaria y Bachillerato" target="_blank">Recursos Secundaria y Bachillerato</a> </strong> from <strong><a href="https://www.slideshare.net/carmenmellado" target="_blank">carmenmellado</a></strong> </div>
 
 *    A través de los **marcadores sociales**: Los marcadores sociales vienen a ser los "favoritos" de siempre pero alojados en intrenet, de manera que están accesibles desde cualquier ordenador. Y no sólo eso, también se pueden compartir y así crear auténticas **comunidades**, en nuestro caso de **docentes, con enlaces compartidos.** Muchos de estos servicios te permiten buscar contenidos mediantes "tags" o etiquetas, aun sin estar registrado ([Mister Wong](http://www.mister-wong.es/), [Diigo](https://www.diigo.com/search/)) otros ([Delicious](https://delicious.com/)) requieren registro previo.
 
@@ -46,9 +43,7 @@ Imagina que has ido navegando por internet y has encontrado gran cantidad de pá
 
 ¿Cómo te planteas poder ir almacenándolas, organizándolas, compartiéndolas con alumnos o compañeros?
 
-var feedbackquesFeedback0b27text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Podrás encontar soluciones de lo más variado y conforme a tu forma de trabajo o preferencias. Ya hemos visto algunas formas, como lo que hemos venido denominado "lanzaderas", es decir **páginas de texto, de una presentación o del software de nuestra PDI, con los enlaces** para ser utilizados.
 
@@ -63,4 +58,8 @@ Pero existen otras soluciones:
 [Marcadores Sociales](http://www.ite.educacion.es/formacion/materiales/157/cd/m6_2_marcadores_sociales/index.html) (Curso del ITE sobre Mr. Wong y Delicious)
 
 [Marcadores Sociales](http://recursostic.educacion.es/observatorio/web/es/internet/web-20/969-marcadores-sociales-mister-wong-diigo-y-delicious) (Observatorio Tecnológico sobre Mr. Wong, Diigo y Delicious)
+
+%/accordion%
+
+
 

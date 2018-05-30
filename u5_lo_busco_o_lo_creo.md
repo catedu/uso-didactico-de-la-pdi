@@ -6,7 +6,7 @@ Llegados a este punto y tras experimetar con la multitud de recuros que hemos vi
 
 **Crear nuestos ODEs**, puede parecer excesivamente complejo pero de hecho ya lo hemos estado haciendo con el **software de la PDI** o con **documentos de texto** o **presentaciones**.... no serán tan "espectaculares" como una animación flash, pero pueden servir perfectamente a nuestros objetivos educativos. Por ejemplo la reutilización de una explicación en la PDI o la grabación de la misma:
 
-[GomGar Sol](http://www.youtube.com/user/Soledadgomezgarcia?feature=watch)·en [Youtube](http://www.youtube.com/)
+{% youtube %}https://youtu.be/zFTVcWOeQlE{% endyoutube %}
 
 Existen una serie de herramientas, las **herramientas de autor**, que permiten crear objetos digitales de enseñanaza (ODE) de forma muy sencilla pero con resultados muy eficaces. Aunque no son objeto de este curso (existe un curso en Aularagón dedicado a ellos), te presentamos las características de algunas de las más usadas:
 
@@ -52,9 +52,11 @@ De Mª Jesús Camino en [Educ@conTIC](http://www.educacontic.es/blog/actividades
 
 Vas a reflexionar sobre lo que se nos cuenta y propone. Te animamos a que pruebes alguna de las aplicaciones sugeridas, especialmente las que son online y no requieren ninguna instalación.
 
-var feedback34\_36\_6text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Si quieres probar con programas como eXeLearning, HotPotatoes, JClic, EdiLIM o Ardora, puedes utilizarlos sin instalar, en su versión portable que se encuentra en [PROKIT](http://www.catedu.es/webcatedu/index.php?option=com_content&view=article&id=212) de CATEDU.
+
+%/accordion%
+
+
 

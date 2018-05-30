@@ -3,7 +3,6 @@
 * [Introducción](README.md)
 
 ____
-<!--
 ### 1. PRIMEROS PASOS 
 * [MÓDULO 1: PRIMEROS PASOS](index0.md)
 * [Contenidos](contenidos.md)
@@ -40,7 +39,6 @@ ____
 		* [2.3.Interwrite](23interwrite.md)
 		* [2.4.Open Sankoré](24open_sankor.md)
 * [Ampliación de Contenidos: imagen y vídeo.](ampliacin_de_contenidos_imagen_y_vdeo.md)
--->
 
 ### 3. ¿CÓMO LO HAGO? 
 * [MÓDULO 3: ¿CÓMO LO HAGO?](index2.md)
@@ -53,7 +51,6 @@ ____
 	* [U.6: Las Competencias Básicas](u6_las_competencias_bsicas.md)
 * [Ampliación de contenidos: VNC y Webquest](ampliacin_de_contenidos_vnc_y_webquest.md)
 
-<!--
 ### 4. Y LOS MATERIALES? 
 * [Y LOS MATERIALES?](index3.md)
 * [Contenidos](contenidos3.md)
@@ -64,7 +61,6 @@ ____
 	* [U.5- Lo busco o lo creo?](u5_lo_busco_o_lo_creo.md)
 	* [U.6- Algunos accesorios](u6_algunos_accesorios.md)
 * [Ampliación de contenidos: Intranet y Cmaptools](ampliacin_de_contenidos_intranet_y_cmaptools.md)
-* [Créditos](crditos3.md)
--->
+
 ___
 * [Créditos](crditos.md)

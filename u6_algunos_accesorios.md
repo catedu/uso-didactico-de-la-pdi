@@ -13,26 +13,26 @@ Pere Marqués, resume **algunas de sus posibilidades** en esta presentación.
 Son aparatos que en los últimos tiempos se han hecho económicamente bastante accesibles, pero hay una **alternativa, todavía más económica** y, si exceptuamos algunas funcionalidades como el adaptador al microscopio de algunos modelos o el caso de las PDI Smart con una conexión específica para las cámaras de su propia marca, igualmente efectiva, que es el uso de **una webcam con un soporte**.
 
   
-
-**[11 modelos de uso didáctico de la cámara de documentos](https://www.slideshare.net/peremarques/11-modelos-de-uso-didctico-de-la-cmara-de-documentos "11 modelos de uso didáctico de la cámara de documentos")** from **[Pere Marquès](http://www.slideshare.net/peremarques)**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bW41xAsBhEIkJs" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/peremarques/11-modelos-de-uso-didctico-de-la-cmara-de-documentos" title="11 modelos de uso didáctico de la cámara de documentos" target="_blank">11 modelos de uso didáctico de la cámara de documentos</a> </strong> from <strong><a href="https://www.slideshare.net/peremarques" target="_blank">PERE MARQUES</a></strong> </div>
 
 Aquí vemos un ejemplo de su uso:
 
- Si la cámara de documentos puede abrir un amplio abanico de posibilidades, (o su alternativa la webcam) existen otros elementos que también pueden favorecer la interacción con la PDI y aumentar, especialmente, la **participación del alumnado**.
+{% youtube %}https://youtu.be/iAKuDT_dOxY{% endyoutube %}
+
+Si la cámara de documentos puede abrir un amplio abanico de posibilidades, (o su alternativa la webcam) existen otros elementos que también pueden favorecer la interacción con la PDI y aumentar, especialmente, la **participación del alumnado**.
 
 Son los **periféricos inalámbricos**:
 
-### \- **Tableta Gráfica**
+### **Tableta Gráfica**
 
-### \- **Teclado y ratón inalámbricos**
+{% youtube %}https://youtu.be/_ZmIX_QjDzE{% endyoutube %}
+
+### **Teclado y ratón inalámbricos**
 
 
-![tableta](img/tableta.jpg)
+[![Fig.4.2.LicenciaAlgunos derechos reservados por ser...En: flickr](img/tableta.jpg)](http://www.flickr.com/photos/el_ser_lomo/2516642098/sizes/q/in/photolist-4Qos21/)
 
-
-Fig.4.2.Licencia[Algunos derechos reservados](http://creativecommons.org/licenses/by-nd/2.0/ "Attribution-NoDerivs License") por [ser...](http://www.flickr.com/photos/el_ser_lomo/)En: [flickr](http://www.flickr.com/photos/el_ser_lomo/2516642098/sizes/q/in/photolist-4Qos21/)
-
- Según Pere Marqués, estos dispositivos inalámbricos **permiten facilitar e incrementar la participación del alumnado** en actividades como: Síntesis en clase, realización de ejercicios entre todos, los estudiantes hacen de profesores, debates con apoyo multimedia,....
+Según Pere Marqués, estos dispositivos inalámbricos **permiten facilitar e incrementar la participación del alumnado** en actividades como: Síntesis en clase, realización de ejercicios entre todos, los estudiantes hacen de profesores, debates con apoyo multimedia,....
 
 _-Se pueden ir pasando a diversos alumnos para que, desde su mesa, vayan escribiendo,con el teclado inalámbrico, en la pizarra digital sus aportaciones de manera sintética, antes o después de comentarlas con más detalle a todos sus compañeros._
 
@@ -62,23 +62,22 @@ Puedes ver esta [entrada del Blog](http://www.catedu.es/arablogs/blog.php?id_blo
 
 Si quieres ampliar sobre el tema, aquí tienes un [estudio realizado](http://formacion.enlinea.educa.madrid.org/itic10/comunicaciones/losmandosinteractivos.pdf) a partir de su aplicación en el aula.
 
-Ejemplo de uso de la **Tableta Gráfica**:
-
 ## Reflexión
 
 ¿Habías pensado en el uso de alguno de estos accesorios? Lo cierto es que muchos de ellos no requiere ni gran inversión económica ni conocimientos técnicos de uso, es sólo buscarles posibilidades didácticas.
 
 ¡Seguro que se te ocurren montones de ideas!
 
-var feedback36_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Para enriquecer este aporte de ideas sobre el uso de diferentes accesorios con las PDI, aquí tienes algunos artículos de opinión interesantes:
 
 Celestino Arteta en [Educación Tecnológica](http://villaves56.blogspot.com.es/2013/06/el-valor-didactico-de-la-camara-de.html#.UoHmrSf9UhA). Sobre la cámara de documentos/Webcam
 
 Blog "[Tecnología y Educación](http://www.tecnologiayeducacion.com/la-tableta-una-mini-pizarra-interactiva/)". Sobre las tabletas gráficas.
+
+%/accordion%
+
 
 ## Para saber más
 
@@ -91,10 +90,5 @@ En [CATEDU](http://www.catedu.es/webcatedu/index.php/descargas/realidad-aumentad
 Una vez instalado el programa, y seleccionado el tema que te intersa, tienes que descargar el pdf con los "marker", que es lo que se coloca bajo la webcam, y las escenas, que hay que abrir con el programa descargado.
 
 
-![camaradocus_realidadaument](img/camaradocus_realidaument.jpg)
-
-
-Fig.4.3.Licencia: [Algunos derechos reservados](http://creativecommons.org/licenses/by/2.0/ "Attribution License") por [DubsarPR](http://www.flickr.com/photos/dubsar/)
-
-En:[Flickr](http://www.flickr.com/photos/dubsar/6219646113/sizes/n/in/photostream/)
+[![Fig.4.3.Licencia: Algunos derechos reservados por DubsarPR. En: Flickr](img/camaradocus_realidaument.jpg)](http://www.flickr.com/photos/dubsar/6219646113/sizes/n/in/photostream/)
 

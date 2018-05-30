@@ -20,15 +20,17 @@ En cambio el **trabajo con direcciones de interés y páginas web descargadas** 
 
 En "Pulse aquí" encontrarás los **videotutoriales** del autor que explican cómo hacerlo.
 
-var feedback38_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 En la web del autor, encontrarás [tutoriales](http://catedu.es/intranetypupitre/index.php?seccion=tutoriales%20Intranet) de todos los aspectos de la intranet. Aquí te dejamos los dos que hacen referencia a los temas propuestos:
 
 \- [Webs preferidas](http://catedu.es/materialesaularagon2013/pdi/8_webs_preferidas.swf).
 
 \- [Webs en la red local](http://catedu.es/materialesaularagon2013/pdi/7_webs_en_la_red_local.swf).
+
+%/accordion%
+
+
 
 ### \- CMAPTOOLS:
 
@@ -46,11 +48,13 @@ Desde aquí puedes descargar [**Cmaptools**](http://cmapdownload.ihmc.us/install
 
 Ahora hay que probar sus posibilidades.
 
-var feedbackquesFeedback0b41text = "Mostrar retroalimentación";
+%accordion%Solución%accordion%
 
-### Retroalimentación
+Existen muchos tutoriales y ayudas sobre este programa. Aquí te proponemos un sencillo [tutorial "paso a paso"](https://issuu.com/cursopdi/docs/cmap_pas_o).
 
-Existen muchos tutoriales y ayudas sobre este programa. Aquí te proponemos un sencillo tutorial "paso a paso":
+%/accordion%
+
+
 
 ## Para saber más
 

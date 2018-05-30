@@ -2,9 +2,11 @@
 
 La utilización de la **PDI**, **permite trabajar las competencias básicas**, aplicando una metodología basada en el protagonismo del alumnado mediante **actividades que le permitan investigar, participar, colaborar, crear** en un contexto de trabajo dinámico y participativo.
 
-**¿Cómo?**:
+#### ¿Cómo?:
 
-**¿Y la evaluación?**
+<iframe src="https://docs.google.com/presentation/d/1db50KTOqLElYv0bZW91e7iSFVFITNE1gDa_PBaCj6AU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="700"></iframe>
+
+#### ¿Y la evaluación?
 
 Si pasamos de aprender memorizando a aprender haciendo deberemos plantear nuevas formas de evaluación: _Cuando no sea necesario memorizar: no pongamos examen de memoria_ (Pere Marqués)
 
@@ -26,13 +28,15 @@ Hemos visto muchas propuestas, ideas de actuación, decálogos de bueanas práct
 
 Lo que nos aporten otros compañeros y los pedagogos está muy bien pero tendremos que extraer de todo ello aquello que nos es válido y adaptarlo a nuestra forma de enseñar, a nuestra realidad
 
-var feedback41_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Hay muchos ejemplos, pero te presentamos este documento en el que una profesora presenta su experiencia con la PDI. A ésto no se llega en una semana, ni en dos... es cuestión de ir probando, de ver lo que me funciona y me aporta algo...
 
 **[Pdi chus](https://www.slideshare.net/chusotero9/pdi-chus "Pdi chus")** from **[Chus Otero](http://www.slideshare.net/chusotero9)**
 
 **Otro ejemplo.** Unos profesores han creado esta página donde colocan propuestas de actividades a realizar con el alumnado en un aula con TIC. No son un conjunto de recursos sin más, son propuestas didácticas que nos pueden dar muchas ideas: [Un PrácTICo Baúl](https://sites.google.com/site/unpracticobaul/sobre-el-baul).
+
+%/accordion%
+
+
 
