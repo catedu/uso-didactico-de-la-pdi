@@ -11,7 +11,7 @@ Como hemos comentado en el apartado anterior todos tenemos material didáctico a
 
 Sin duda es un formato universal en el que seguro que tenemos gran cantidad de documentos, pero... "el lector que tengo instalado no me permite interactuar con él, si no es con el software de la PDI", pues bien, esta afirmación no es del todo cierta.
 
-Hay lectores de PDF, que permiten interactuar sobre el documento. Vamos a presentar uno llamado **PDF-XChangeViewer**, que permite escribir y marcar sobre los documentos PDF. Es gratuito y se puede instalar de forma fija en tu ordenador (en lagunos puede que esté instalado) o tenerlo en forma _portable_ (es decir se ejecuta y no requiere instalación) que es como lo presentamos ([DESCARGAR AQUÍ](http://catedu.es/materialesaularagon2013/pdi/pdfxvwportable.zip)). Bueno para ser exactos hay que decir que es gratuito en la versión que vamos a trabajar, tiene algunas funcionalidades (como unir o separar documentos PDF) que son _pro_ y que sólo están activadas en la versión de pago.
+Hay lectores de PDF, que permiten interactuar sobre el documento. Vamos a presentar uno llamado **PDF-XChangeViewer**, que permite escribir y marcar sobre los documentos PDF. Es gratuito y se puede instalar de forma fija en tu ordenador (en lagunos puede que esté instalado) o tenerlo en forma _portable_ (es decir se ejecuta y no requiere instalación) que es como lo presentamos ([DESCARGAR AQUÍ](http://aularagon.catedu.es/materialesaularagon2013/pdi/pdfxvwportable.zip)). Bueno para ser exactos hay que decir que es gratuito en la versión que vamos a trabajar, tiene algunas funcionalidades (como unir o separar documentos PDF) que son _pro_ y que sólo están activadas en la versión de pago.
 
 Veamos lo que nos ofrece este programa:
 
