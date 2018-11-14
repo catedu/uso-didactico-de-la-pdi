@@ -4,7 +4,7 @@
 
 Aquí vas a encontrar **un vídeo** sobre la PDI que nos ha parecido interesante a modo de colofón del módulo y preámbulo del siguiente y unas orientaciones sobre el programa **WinRAR** que permite comprimir y descomprimir archivos:
 
-*   [  Vídeo resumen](http://facilytic.catedu.es/2013/10/10/minitutorial-de-la-pdi/) sobre lo que es la PDI y sus posibilidades didácticas, del Ministerio de Educación.
+*   [Vídeo resumen](http://aularagon.catedu.es/materialesaularagon2013/pdi/PDI_mec.swf) sobre lo que es la PDI y sus posibilidades didácticas, del Ministerio de Educación.
 
 <object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/pdi/CURSO/ZIPs/Modulo_1/PDI.swf" width="715" height="538"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/pdi/CURSO/ZIPs/Modulo_1/PDI.swf"></object>
 
