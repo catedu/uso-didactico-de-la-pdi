@@ -18,7 +18,7 @@ Pero **innovar es ofrecer algo nuevo y distinto**, una solución ante un nuevo r
 
 ## Reflexión
 
-Te presentamos un extracto del artículo del [Proyecto GRIMM](http://www.proyectogrimm.net)."**Entrando al trapo de las TIC (I)**" referido a la **integración de las TIC en el aula** en el que el autor, Fran Iglesias, reflexiona sobre los elementos que pueden llevar al educador a buscar soluciones innovadoras con las TIC y que resume en cuatro pasos: **Explora, Imagina, Prepara y Acompaña**.
+Te presentamos un extracto del artículo del [Proyecto GRIMM](http://www.quadernsdigitals.net/datos/hemeroteca/r_1/nr_721/a_9673/9673.pdf)."**Entrando al trapo de las TIC (I)**" referido a la **integración de las TIC en el aula** en el que el autor, Fran Iglesias, reflexiona sobre los elementos que pueden llevar al educador a buscar soluciones innovadoras con las TIC y que resume en cuatro pasos: **Explora, Imagina, Prepara y Acompaña**.
 
 Te proponemos que, tras leerlo (En "Pulse aquí"), reflexiones y pienses en cómo lo podrías llevar a la realidad de tu área, tu aula,...
 
