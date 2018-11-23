@@ -28,7 +28,7 @@ Entramos en la página: [http://www.mediaconverter.org/](http://www.mediaconvert
 
 \- **Con un programa desde el ordenador**
 
-Descargamos Format Factory (Esta es una [versión portable](http://catedu.es/materialesaularagon2013/pdi/formatfactoryportable.zip) que no requiere instalación pero con toda su funcionalidad. Hay que dar en el icono que se llama _FormatFactory_ y se abre el programa)
+Descargamos Format Factory (Esta es una [versión portable](http://aularagon.catedu.es/materialesaularagon2013/pdi/formatfactoryportable.zip) que no requiere instalación pero con toda su funcionalidad. Hay que dar en el icono que se llama _FormatFactory_ y se abre el programa)
 
 Cómo funciona:
 
