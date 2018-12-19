@@ -14,6 +14,12 @@ En esta página del ITE, a la izquierda tienes la posibilidad de buscar **por as
 
 El resto de **Administraciones Educativas Autonómicas** también tienen sus espacios dedicados a la recopilación de recursos educativos. En el siguiente esquema presentamos a la derecha del nombre de cada Comunidad el enlace a su página de recursos y, en su caso, algún breve comentario:
 
+>**info**
+>
+>Para ver el siguiente esquema no olvides **cargar los scripts no seguros** clicando en la barra de búsqueda de tu navegador.
+>
+>![](img/scrpits_no_seguros.png)
+
 <iframe src="http://www.mindomo.com/view.htm?m=af917940a8c948b49c773fd83d28a9d8" frameborder="0" width="600" height="505" class="external-iframe"></iframe>
 
 De entre ellas, destacamos la página del [CATEDU](http://catedu.es/webcatedu/) (Centro Aragonés de Tecnologías para la Educación) en cuya sección "recursos" encontrarás un amplio repertorio (por niveles y áreas) y un catálogo que permite realizar búsquedas detalladas de lo que necesitemos (ver "Para saber más"). Se está trabajando en el **Proyecto Facilit@mos**, que en breve ofrecerá por áreas y árbol curricular no sólo enlaces a recursos de interés, sino también unidades didácticas listas para ser puestas en práctica en aulas con el uso de las TIC, para todos los niveles educativos.
